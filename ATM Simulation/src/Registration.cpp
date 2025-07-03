@@ -815,7 +815,7 @@ AccountList Registration::menu() {
     cout << "\t|                                                           |" << endl;
     cout << "\t|     Name must be at least 3 characters long.              |" << endl;
     cout << "\t|     Date of birth is recorded in (dd/mm/yyyy) format.     |" << endl;
-    cout << "\t|     Your initial deposit must be a minimum of 5,000.     |" << endl;
+    cout << "\t|     Your initial deposit must be a minimum of 5,000.      |" << endl;
     cout << "\t|     Maximum of 40,000 initial deposit.                    |" << endl;
     cout << "\t|     Your PIN code must be 6 digits in length.             |" << endl;
     cout << "\t|                                                           |" << endl;
