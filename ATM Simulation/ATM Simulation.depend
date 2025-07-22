@@ -1,0 +1,268 @@
+# depslib dependency file v1.0
+1699015016 source:d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\main.cpp
+	<iostream>
+	<conio.h>
+	<Registration.h>
+	<Transaction.h>
+
+1699000576 source:d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\src\registration.cpp
+	"Registration.h"
+	<AccountManager.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1698996519 d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\include\registration.h
+	<AccountManager.h>
+	<iostream>
+
+1699023302 source:d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\src\transaction.cpp
+	"Transaction.h"
+	<AccountManager.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+
+1698996342 d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\include\transaction.h
+	<AccountManager.h>
+	<iostream>
+
+1698109661 d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\include\atm.h
+	<iostream>
+	<iostream>
+
+1698109620 source:d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\src\atm.cpp
+	"ATM.h"
+	"ATM.h"
+
+1698136690 d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\include\filemanager.h
+	<iostream>
+	<iostream>
+
+1698134066 source:d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\src\filemanager.cpp
+	"FileManager.h"
+	<iostream>
+	<cctype>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+	"FileManager.h"
+	<iostream>
+	<cctype>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1699000466 d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\include\accountmanager.h
+	<iostream>
+
+1699015016 source:d:\ryunosuke\coding\code blocks\newly created projects\atm simulation\src\accountmanager.cpp
+	"AccountManager.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1700739693 source:d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\main.cpp
+	<iostream>
+	<conio.h>
+	<Registration.h>
+	<Transaction.h>
+
+1700739694 d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\include\registration.h
+	<AccountManager.h>
+	<iostream>
+
+1700803625 d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\include\accountmanager.h
+	<iostream>
+
+1700739694 d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\include\transaction.h
+	<AccountManager.h>
+	<iostream>
+
+1700739694 source:d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\src\accountmanager.cpp
+	"AccountManager.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1700739694 source:d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\src\registration.cpp
+	"Registration.h"
+	<AccountManager.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1700739694 source:d:\ryunosuke\coding\code blocks\school\2nd year - 1st sem\atm simulation\src\transaction.cpp
+	"Transaction.h"
+	<AccountManager.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+
+1700739694 source:c:\users\kenet sevilla\desktop\atm simulation\atm simulation\main.cpp
+	<iostream>
+	<conio.h>
+	<Registration.h>
+	<Transaction.h>
+
+1700739696 c:\users\kenet sevilla\desktop\atm simulation\atm simulation\include\registration.h
+	<AccountManager.h>
+	<iostream>
+
+1700803626 c:\users\kenet sevilla\desktop\atm simulation\atm simulation\include\accountmanager.h
+	<iostream>
+
+1700739696 c:\users\kenet sevilla\desktop\atm simulation\atm simulation\include\transaction.h
+	<AccountManager.h>
+	<iostream>
+
+1700739696 source:c:\users\kenet sevilla\desktop\atm simulation\atm simulation\src\accountmanager.cpp
+	"AccountManager.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1700739696 source:c:\users\kenet sevilla\desktop\atm simulation\atm simulation\src\transaction.cpp
+	"Transaction.h"
+	<AccountManager.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+
+1742626916 source:c:\users\kenet sevilla\desktop\atm simulation\atm simulation\src\registration.cpp
+	"Registration.h"
+	<AccountManager.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1743235524 source:c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\main.cpp
+	<iostream>
+	<conio.h>
+	<Registration.h>
+	<Transaction.h>
+
+1743235241 c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\include\registration.h
+	<AccountManager.h>
+	<iostream>
+
+1743235241 c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\include\accountmanager.h
+	<iostream>
+
+1743235241 c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\include\transaction.h
+	<AccountManager.h>
+	<iostream>
+
+1743235241 source:c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\src\accountmanager.cpp
+	"AccountManager.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1743235241 source:c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\src\registration.cpp
+	"Registration.h"
+	<AccountManager.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1743235241 source:c:\users\kenet sevilla\desktop\atm_simulation\atm simulation\src\transaction.cpp
+	"Transaction.h"
+	<AccountManager.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+
+1753151407 source:c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\main.cpp
+	<iostream>
+	<conio.h>
+	<Registration.h>
+	<Transaction.h>
+
+1753148863 c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\include\registration.h
+	<AccountManager.h>
+	<iostream>
+
+1753148863 c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\include\accountmanager.h
+	<iostream>
+
+1753148863 c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\include\transaction.h
+	<AccountManager.h>
+	<iostream>
+
+1753148863 source:c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\src\accountmanager.cpp
+	"AccountManager.h"
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1753151206 source:c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\src\registration.cpp
+	"Registration.h"
+	<AccountManager.h>
+	<iostream>
+	<string>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+	<sstream>
+
+1753149869 source:c:\users\kenet sevilla\downloads\atm_simulation\atm simulation\src\transaction.cpp
+	"Transaction.h"
+	<AccountManager.h>
+	<iostream>
+	<conio.h>
+	<thread>
+	<fstream>
+	<windows.h>
+
