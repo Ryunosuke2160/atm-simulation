@@ -1,4 +1,4 @@
-# ATM_Simulation
+# ATM Simulation
 I decided to add my terminal-based ATM simulation project from 2023.
 > [!NOTE]
 > My cryptography skills weren’t the strongest at the time.
